@@ -247,6 +247,7 @@ Robot {
     mass 0.05
   }
   controller "crazyflie_controller_py"
+  supervisor TRUE
 }
 
 CeilingLight {
