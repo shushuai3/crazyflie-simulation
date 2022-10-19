@@ -246,7 +246,7 @@ Robot {
     density -1
     mass 0.05
   }
-  controller "crazyflie_controller_py"
+  controller "crazyflie_controller_gym_py"
   supervisor TRUE
 }
 
